@@ -142,6 +142,6 @@ while True:
 
 # 1. How many logical chunks do you see in this code?
 
-# 2. What would good labels/descriptions of those chunks be?
+# 2. What would good labels/descriptions of those chunks be? Make sure you are not writing a function yet, just breaking the code into chunks. 
 
 # 3. Write a comment to name the chunk of code
